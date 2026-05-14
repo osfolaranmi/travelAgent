@@ -34,7 +34,7 @@ Provides useful information about countries including:
 Example:
 
 ```text
-Tell me about Canada.
+Tell me about Bahamas.
 ```
 
 ---
@@ -105,7 +105,7 @@ homework1-travel-agent/
 ## 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/osfolaranmi/travelAgent.git
 ```
 
 ---
@@ -168,7 +168,7 @@ What should I wear in Lagos today?
 ```
 
 ```text
-Tell me about Canada and what I should pack.
+Tell me about Bahamas and what I should pack.
 ```
 
 ```text
@@ -188,7 +188,7 @@ This helps users inspect agent reasoning and execution flow.
 
 ---
 
-# Bonus Features Implemented
+# Other Features Implemented
 
 - Multiple custom tools
 - External API integration
@@ -200,4 +200,8 @@ This helps users inspect agent reasoning and execution flow.
 
 # Author
 
-Homework 1 Submission — Agentic AI Bootcamp
+Oluwatosin Folaranmi — Agentic AI Bootcamp
+
+<img width="1277" height="755" alt="Screenshot1" src="https://github.com/user-attachments/assets/847c4a27-433c-4ccb-a26f-a81b337fff66" />
+<img width="1705" height="844" alt="Screenshot2" src="https://github.com/user-attachments/assets/c4236fd8-f99d-4d7f-862d-cc1801ea9e07" />
+<img width="1706" height="941" alt="Screenshot3" src="https://github.com/user-attachments/assets/8c6d8d92-8d02-4a7b-993c-9a148c6f9624" />
